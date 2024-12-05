@@ -477,7 +477,7 @@ var baseLayers = {
 var groupedOverlays = {
   "Points of Interest": {
     "<img src='assets/img/theater.png' width='24' height='28'>&nbsp;Theaters": theaterLayer,
-    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer
+    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer,
     "<img src='assets/img/marker-33x33.png' width='28' height='28'>&nbsp;Szkoły": szkolyLayer
   },
   "Reference": {
